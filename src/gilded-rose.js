@@ -64,7 +64,7 @@ class Shop {
   }
 }
 
-module.exports = {
+export {
   Item,
   Shop
 }
